@@ -124,6 +124,7 @@ public class SprintCreateObject : MonoBehaviour
 
 2020年11月
     bot*アニメーション
+      ノーコーディングによる「線を繋げて、アニメーションや動きを作る」
 
 おまけ
 
